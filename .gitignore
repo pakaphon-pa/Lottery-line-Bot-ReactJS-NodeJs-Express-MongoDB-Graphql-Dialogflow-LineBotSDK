@@ -1,0 +1,3 @@
+server/node_modules/
+server/.gc-key.json
+client/node_modules/

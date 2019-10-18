@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://maimeearai:maimeearai@lottery-bot-f38ov.mongodb.net/test?retryWrites=true&w=majority"
+}
